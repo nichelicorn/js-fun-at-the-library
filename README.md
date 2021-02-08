@@ -11,7 +11,7 @@ In this project, you'll be gaining experience working with variables, primitive
 data types, looping, arrays, and objects. As you work through the
 iterations, be sure to take time to stop and refactor you solutions. There is
 rarely one right way to solve a problem in programming, and part of your job
-will be evaulating the trade offs between different approaches to solving a
+will be evaluating the trade offs between different approaches to solving a
 problem.
 
 ## Learning goals
@@ -63,5 +63,5 @@ problem.
 ### 4: Extension (not part of the project, just stuff to do if you get to it): Complete the Librarian tests
   - Unskip the first test in `test/Librarian-test.js`, and get to work passing the tests
   - Run `npm test test/Librarian-test.js`  
-  - Take time to refactor your solutions. Is this the best approach to solving the problem? 
+  - Take time to refactor your solutions. Is this the best approach to solving the problem?
     Is there a different way you could make the tests pass?  
