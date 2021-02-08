@@ -22,15 +22,15 @@ problem.
 
 ## Setup
 
-  - Fork this project to your own Github account
-  - clone the repository to your local machine
-  - `cd` into the project
-  - run `npm install` to install the necessary dependencies
+  - √ Fork this project to your own Github account
+  - √ clone the repository to your local machine
+  - √ `cd` into the project
+  - √ run `npm install` to install the necessary dependencies
 
 ## Iterations
 
-### 0: Practice Variables, Primitives, Functions, Arrays, and Objects
-  - In the `src/` directory, you'll find a file called 'warm-up.js'. Read
+### √ 0: Practice Variables, Primitives, Functions, Arrays, and Objects
+  - √ In the `src/` directory, you'll find a file called 'warm-up.js'. Read
     through the instructions in the file carefully. The exercises in this file
     will help you to complete the rest of the iterations  
 
