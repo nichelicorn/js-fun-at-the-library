@@ -13,8 +13,12 @@ function buildMainCharacter(name, age, pronouns) {
 };
 
 function saveReview(review, array) {
-  array.push(review);
-  return array;
+  if (array.includes(review)) {
+    return array;
+  } else {
+    array.push(review);
+    return array;
+  }
 };
 
 module.exports = {
